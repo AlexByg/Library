@@ -1,0 +1,7 @@
+.media img, #editbook img {
+    width: 100px;
+}
+
+article div .text-ind, #pagemessage p {
+    text-indent: 2em;
+}
